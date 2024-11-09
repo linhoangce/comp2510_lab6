@@ -1,0 +1,7 @@
+Mary Jackson 4.0 I 60
+Jack He 2.45 D
+Invalid line
+Mike Johnson 3.125 D
+Jane Zhang 3.8 I 120
+John Den 4.1 D
+Alice Smith 4.2 I 80
